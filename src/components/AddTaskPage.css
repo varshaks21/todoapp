@@ -1,0 +1,22 @@
+    .container {
+      text-align: center;
+    }
+  
+    .title {
+      font-size: 24px;
+      margin-bottom: 16px;
+    }
+    .form-control {
+      padding: 10px;
+    }
+  
+    .add-button {
+      padding: 10px;
+    }
+  
+    .link {
+      padding: 10px;
+      font-size: 20px;
+    }
+  
+  

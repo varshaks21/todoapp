@@ -1,0 +1,36 @@
+     .container {
+       text-align: center;
+     }
+  
+     .title {
+       font-size: 24px;
+       margin-bottom: 16px;
+       font-size: 50px;
+     }
+  
+     .task-list {
+       font-size: 28px;
+       list-style: none;
+       padding-left: 0;
+     }
+
+
+     .delete-button {
+      width: 80px;
+      height: 30px;
+      border-radius: 4px;
+      margin-left: 10px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+     }
+
+    .delete-button{
+      float: right !important;
+    }
+    
+    .link {
+      padding: 10px;
+      font-size: 20px;
+    }
+  

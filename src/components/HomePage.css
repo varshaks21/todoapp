@@ -1,0 +1,22 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-image:url("backgrnd.jpg")
+}
+
+
+.container {
+    text-align: center;
+  }
+  
+  .title {
+    font-size: 50px;
+    margin-bottom: 16px;
+  }
+  
+  .link {
+    display: inline-block;
+    margin: 8px;
+    color: rgb(0, 191, 255);
+    text-decoration: underline;
+  }
+  
